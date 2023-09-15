@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-View the project on <a href="https://ad-dashboard-gamma.vercel.app/">CLick Here</a>
+View the project on <a href="https://firebaseadmindashboard.netlify.app/">CLick Here</a>
 
 ## Available Scripts
 
